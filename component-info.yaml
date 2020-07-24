@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hmcts-github-io
+  description: HMCTS way technical documentation
+spec:
+  type: documentation
+  lifecycle: beta
+  owner: Platform Engineering
